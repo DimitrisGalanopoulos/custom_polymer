@@ -1,0 +1,6 @@
+
+# If we ignore /folder , we can't include /folder/file .
+/backup
+/obj
+*.exe
+
